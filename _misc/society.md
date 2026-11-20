@@ -1,0 +1,5 @@
+There was no issue whatsoever with someone being turned on by a thing. No harm was done to anyone by me having fetishes --- this was not an opinion, it was a plain and simple fact which noone can deny. Perhaps the fact that I liked something perverse was a signifier for some issue that you had with society (or an issue society has with you, I will get to that) bit the lust itself was harmless. 
+
+And my issue with society, (and yours as well!) was that I did not know how to comply with its norms. Or rather that I did not know how to do it, although this will not make much sense for you unless you experience it firsthand. But I am certain it was this, it was ALWAYS THIS as the ghosts of Scooby Doo always turn out to be just masked money-hungry idiots. 
+
+So, take it from me: If your soul hurts, if you feel daily as if you are on some impossible mission and on the verge of collapse in which your brain will split in two (and even secretly want it to split), know that this is not you, it is just society, that doesn't want to accomodate for your condition. They cunningly put the pressure on you to solve the issue, but the blame is fully theirs.

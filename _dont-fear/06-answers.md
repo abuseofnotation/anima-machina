@@ -9,7 +9,7 @@ image: |
 
 Work is an alternative reality—there are people I know at work whom I don't know in my real life. Activities, hierarchies, various customs that only apply to this world that I inhabit 8 hours a day before I exit and go on with my life, trying to make sense of it... or not. Some people try to solve this inconsistency by blending work and real life. Or rather, they have their life taken over by their job (as the reverse isn't permitted) effectively giving up their identity in favor of their role as an employee. This probably costs them a lot, and I am sure they suffer, but at least it makes the whole thing less hard to deal with than cases like mine.
 
-The day after my talk with Anhela, I had an encounter with a colleague of mine called Mirko, who was a perfect example of this breed. Besgdes being a colleague, he was a former classmate, and ever since we were in fifth grade, he had been a brilliant mathematician, a brilliant computer scientist. Yes, and a huge nerd and he was entirely devoted to his career. Now, in parallel to working here, he was also studying at university—something which I also had on my list to do. Mirko, on the other hand, didn't have time for making friends (although I'm not sure he had it on his list).
+The day after my talk with Anhela, I had an encounter with a colleague of mine called Mirko, who was a perfect example of this breed. Besides being a colleague, he was a former classmate, and ever since we were in fifth grade, he had been a brilliant mathematician, a brilliant computer scientist. Yes, and a huge nerd and he was entirely devoted to his career. Now, in parallel to working here, he was also studying at university -- something which I also had on my list to do. Mirko, on the other hand, didn't have time for making friends (although I'm not sure he had it on his list at all). Perhaps people like me were the closest thing he had to a friend.
 
 "Hey!"
 {: .voice-mirko}
@@ -33,12 +33,10 @@ I said that it sounded like his options were either to do A or do B (details omi
 
 For a second I felt great, because I thought that Mirko was asking for my opinion, but then my pride was overshadowed by the fear that my critical thinking always triggered when faced with something it doesn't fully grasp.
 
-I told him to just do what he thought was more appropriate and went outside to catch my breath. I walked to the terrace overlooking Vitosha. I observed the mountain carefully, not fully admitting to myself that I was searching for another phenomenon. There was no such thing. I wrote this while I was there:
+I told him to just do what he thought was more appropriate and went outside to catch my breath. I walked to the terrace overlooking Vitosha. I observed the mountain carefully, not fully admitting to myself that I was searching for another phenomenon. There was no such thing. 
 
-New day, new mountain
-And still I am searching for
-that same old thrill
-{: .haiku}
+When you have time, tell Mirko about the phenomenon and ask him what they think.
+{: .note}
 
 While I was resting there I had a similarly weird encounter with another colleague of mine who hated me, or at least wasn't a fan. She came to me and started making small talk, which was so clumsy that I won't try to write it up—if I did, it would consist mostly of "Erm"s and "Mhm"s followed by ellipses.
 
@@ -68,7 +66,7 @@ Later, I learned that being not-so-capable of what you do sometimes had its adva
 
 I decided that this was my chance to be the world's first good boss, one who gives chance to their colleagues to actually use their heads. I said to everyone that I am not going to be the boss. Instead, we would all alternate this role: whenever there is some task at hand, the person most qualified to do it becomes the boss and the rest of the people follow them. Hierarchy changes constantly based on the task at hand e.g. when we are doing activity A, the person who is best at A is “the boss”, when we are doing “B” the same person might be at the bottom of the pyramid. People didn't understand at first, but I think they found it interesting.
 
-For this whole week I didn't manage to visit Curious. and to see the girl who knew someone who had seen the phenomenon. The whole thing was very hard to arrange, as with everything that has to do with Anton. They wanted me to go to their place at noon, so we could discuss something and then call her and arrange the meeting with her at a time she was comfortable with. But because I was working long hours Anton lived very far away, and the girl was also near the end of the city, there was virtually no way to organize the whole thing.
+For this whole week I didn't manage to visit Curious and to see the girl who knew someone who had seen the phenomenon. The whole thing was very hard to arrange, as with everything that has to do with Anton. They wanted me to go to their place at noon, so we could discuss something and then call her and arrange the meeting with her at a time she was comfortable with. But because I was working long hours Anton lived very far away, and the girl was also near the end of the city, there was virtually no way to organize the whole thing.
 
 But on the day I received my first new salary, the situation changed dramatically. My salary was high, very high. Not only could I rent my own place, if I wanted to, I could BUY my own place in a year! I felt rich. So, I immediately took a cab (I don't drive) and arranged the whole trip. I took a car directly from work, traveled all the way to Anton's house, took them with the car (waited half an hour for them to get ready, of course), and finally went to find the address of the girl. For half an hour we traveled around this part of Sofia, where I had never set foot before. Then we got out of the car and started walking around the neighborhood, playing "Spot the Ten Differences" with the absolutely identical apartment blocks, which created a feeling of lack of movement—wherever we turned we saw the same thing, as if we were sailors traveling the open ocean.
 

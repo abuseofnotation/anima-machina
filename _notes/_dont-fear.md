@@ -47,6 +47,16 @@ i wouldn't say this out loud, but i think i became a programmer precisely becaus
 
 ---------------
 
+------
+
+Being a mediocre programmer was actually an advantage. I discovered this when Mirko became nervous and, out of the blue started bashing the way the whole project was designed and proposing his design instead.
+
+---
+
+"I know who you are. If I only knew who *I* am"
+
+-----------
+
 
 
 I was still gathering my thoughts when I picked up the phone and dialed my office number:
@@ -247,7 +257,6 @@ I thought again about Strugački, who obviously was very keen to get what he wan
 I interrupted my mental dialogue because right then I had one of those impulses. I turned, waved at the image of my mother that had appeared on the intercom, and headed in the opposite direction.
 
 
-
 ----------
 
 
@@ -273,41 +282,7 @@ And she will point to me.
 "Unfortunately, you're right."
 "Come on now. Lead me to whatever we're headed for, whatever it is."
 
-
-----
-
-
-Mentally, I went over our last conversation and answered myself for what Anton was experiencing. He really liked the fact that the Phenomenon existed. It made his life more beautiful because the reality beyond the limits of our understanding made him forget about that other reality we face every day (drugs had the same effect on him). A little while ago, Mirko, and to some extent I, had hinted to him that the Phenomenon didn't exist. And that was apparently enough to shake his own faith.
-
-He sat on the sidewalk and seemed to wait for something to happen. I wanted to ask him immediately how he felt, but instead I sat next to him and waited for him to speak first:
-
-"It's gone, seems like," he said.
-
-"Maybe."
-
-"Engineer. Didn't you support that evolution theory?"
-
-"I find it meaningful, yes," I said cautiously, expecting him to explode. Instead, he got annoyed:
-
-"I know you find it meaningful, but I'm asking something else: Do you think it applies now. To us humans. That the world we inhabit at the moment is one big progress machine, driven by the 'fittest'?"
-
-"And what if it is?"
-
-"Well, nothing, I was just wondering what my role is in such a world?!"
-
-"Well, it's simple. So, when the circumstances around you change, you adapt to them, because otherwise you'll die. In a way, the reason for change is your self-preservation instinct, or in other words, fear of death. Because that's what the self-preservation instinct is—fear of death, right?"
-
-"And?"
-
-"Well, okay, now imagine some guy like me, who isn't afraid of death, and lives as he WANTS, not as is best for him? A person who just wants to live as he likes. If we're just a more talkative version of animals, where is THAT PERSON'S place in the picture?"
-
-It struck me how The Curious One seemed to be hiding himself under the expression "that person."
-
-"Well, aren't you afraid of death?"
-
-"I have no idea. Stop asking questions."
-
-"Sorry. That's probably the only thing I know how to do."
+----------
 
 A girl, roughly our age, passed by us, riding a bicycle. I got déjà vu. I had the feeling I'd seen her somewhere, but couldn't remember exactly where. She, however, apparently remembered, because she turned the handlebars and headed toward me.
 
@@ -330,8 +305,6 @@ Suddenly, the answers to all my questions shone like fireworks, and I understood
 
 
 -----
-
-
 
 
 NOTE:
@@ -412,20 +385,18 @@ After a few days, I dug it out from there to compose this text based on it.
 
 
 
-A girl, roughly our age, passed by us, riding a bicycle. I got déjà vu. I had the feeling I'd seen her somewhere, but couldn't remember exactly where. She, however, apparently remembered, because she turned the handlebars and headed toward me.
+----------
+
+"I'm a bit tired now," I said to him. "Maybe I'll go."
+"Relax, you can sleep at my place."
+"Where."
+"You remember that mattress you gave me to throw out."
+"Yeah."
+"It's in the living room."
+I won't throw old things in the trash.  I need a more efficient way to get rid of them.
 
 NOTE:
-
-To remember the names of people I interact with (or at least those of them who remember mine).
-
-I stood up and looked at her more closely, rummaging through the memories in my brain in search of the one connected to her. "Who is she? What if she stops and talks to me. What will I say to her?" I was wondering things like that when The Curious One snapped me out of my trance, only to excite me even more with a name he uttered simultaneously as an exclamation and a question:
-
-"LILIYAAAAAA!?"
-
-The girl approached me and looked me over from head to toe. The resemblance was striking. I hadn't seen my girl in years, but somehow with my heart I knew it was her. I blushed all over. From nervousness, I couldn't open my mouth, even though I wanted to tell her many things. Or rather one thing, but many times. A little after she passed me, she stopped, turned to me, and uttered two short words:
-
-"Me too."
-
-As I watched her silhouette disappear into the darkness, something got in my eye.
-
-Suddenly, the answers to all my questions shone like fireworks, and I understood everything I wanted to know. The Curious One ran up to me, still unable to catch his breath from surprise and fatigue. Seeing my calm expression, he immediately understood he had catching up to do and began interrogating me.
+"This bed is a bit lumpy," I said. "I prefer to go home."
+"If you stay, we can sit down calmly tomorrow morning, have a beer each, or milk with cocoa if you want, and start looking for help with a clear head."
+"I'm sober now," I said. "Besides, I have to get up early for work tomorrow."
+"Better find a way to get out of it."
