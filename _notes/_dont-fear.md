@@ -1,3 +1,4 @@
+<<<<<<< HEAD:_notes/_dont-fear.md
 Characters
 
 
@@ -49,6 +50,11 @@ i wouldn't say this out loud, but i think i became a programmer precisely becaus
 
 ------
 
+=======
+
+---
+
+>>>>>>> 2c2cffa10d6b6adf6f7674c035aa5750a046db52:_dont-fear/09-burnout.md
 Being a mediocre programmer was actually an advantage. I discovered this when Mirko became nervous and, out of the blue started bashing the way the whole project was designed and proposing his design instead.
 
 ---
@@ -57,6 +63,18 @@ Being a mediocre programmer was actually an advantage. I discovered this when Mi
 
 -----------
 
+<<<<<<< HEAD:_notes/_dont-fear.md
+=======
+
+
+"I'm a bit tired now," I said to him. "Maybe I'll go."
+"Relax, you can sleep at my place."
+"Where."
+"You remember that mattress you gave me to throw out."
+"Yeah."
+"It's in the living room."
+I won't throw old things in the trash.  I need a more efficient way to get rid of them.
+>>>>>>> 2c2cffa10d6b6adf6f7674c035aa5750a046db52:_dont-fear/09-burnout.md
 
 
 I was still gathering my thoughts when I picked up the phone and dialed my office number:
