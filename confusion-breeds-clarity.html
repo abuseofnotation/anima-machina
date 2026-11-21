@@ -1,4 +1,32 @@
 ---
 layout: default
+title: "The facility AKA Confusion breeds clarity"
 ---
- {% include permanent-confusion.html %}
+  <h1><b>The facility </b>AKA Confusion breeds clarity</h1>
+
+  <h2> <i>Sofia 2015</i></h2>
+
+  {% for page in site.confusion-breeds-clarity%}
+<div class="chapter">
+      <!--
+        <div class="artwork">
+          <canvas class="art" width="200px" height="250px" data-pixel="1" data-colors="gray,pink,darkblue">
+          {{ page.image }}
+          </canvas>
+          <h1>{{page.title}}</h2>
+        </div>
+
+        <h2>{{page.subtitle}}</h2>
+
+        <div class="scope"></div>
+      -->
+
+        <h2>{{page.title}}</h2>
+        <h3>{{page.subtitle}}</h2>
+
+        <img class="chapter-image" src="{{site.baseurl}}/assets/{{page.id}}.png"></img>
+        <!--image -->
+{{ page.content }}
+
+</div>
+  {% endfor %}

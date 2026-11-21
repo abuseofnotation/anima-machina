@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Mind against the machine
+name: Anima VS Machina 
 
 # Short bio or description (displayed in the header)
 description: "---"
@@ -13,7 +13,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: abuseofnotation.github.io/anima-machina
 
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 
@@ -21,12 +21,13 @@ excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/mind-against-the-machine"
+baseurl: "/anima-machina"
 
 collections:
   confusion-breeds-clarity:
     output: true
     permalink: confusion-breeds-clarity/:path/
+
   dont-fear:
     output: true
     permalink: dont-fear/:path/

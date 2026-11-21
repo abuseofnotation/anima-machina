@@ -1,12 +1,13 @@
 ---
 layout: default
+title: "The phenomenon AKA Don't fear"
 ---
-<div class="container header">
-  <h1>Confusion breeds clarity</h1>
-</div>
 
-  {% for page in site.confusion-breeds-clarity%}
+<h1><b>The phenomenon</b> AKA Don't fear</h1>
+  <h2> <i>Sofia 2006</i></h2>
+  {% for page in site.dont-fear%}
 <div class="chapter">
+      <!--
         <div class="artwork">
           <canvas class="art" width="200px" height="250px" data-pixel="1" data-colors="gray,pink,darkblue">
           {{ page.image }}
@@ -17,6 +18,11 @@ layout: default
         <h2>{{page.subtitle}}</h2>
 
         <div class="scope"></div>
+      -->
+
+        <h2>{{page.title}}</h2>
+        <h3>{{page.subtitle}}</h2>
+
 {{ page.content }}
 
 </div>

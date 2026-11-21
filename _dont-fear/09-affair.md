@@ -92,3 +92,6 @@ I mean, you can try as you may to spin it any other way, but...
 ...there is no "true self" that you can assign to some of the things you did while writing off the rest as "just coping" and "just doing my job". Even if all people in the world are like you and even if all people in the world think you did good and you are cool and you have nothing to worry about, that is just their opinion. And even the strongest opinion doesn't make up for a weak character. I could COMPLAIN all day long about how miserable my life was, I could THEORIZE how what I do is not so bad, I could try to explain away what I did, but none of this would make me feel any better. 
 
 There as only one thing that would make me better: to get drunk with Curious and delete the whole project (that has happened before, remember?)
+
+TBC
+===

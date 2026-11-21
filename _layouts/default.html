@@ -5,36 +5,13 @@
       <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/style.css">
       <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/custom-style.css">
 
-
-
       <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/voices.css">
-      <script src="{{site.baseurl}}/assets/require.js"></script>
-      <script src="{{site.baseurl}}/assets/out.js"></script>
-      <script>
-          require(['index'])
-      </script>
-
-      <script 
-        id="comic-web" 
-        type="module" 
-        {% if jekyll.environment == "development" %}
-        src="{{site.baseurl}}/assets/comic-web-markup/plugin.js"
-        {% else %}
-        src="https://abuseofnotation.github.io/comic-web-markup/plugin.js"
-        {% endif %}
-        data-url-dir="{{site.baseurl}}/assets/dont-fear-comic"
-        data-file-type="svg"
-        data-width="500"
-        data-height="500"
-        data-text-size="16"
-        ></script>
-    </head>
-
     <body>
       <div class="header">
         <div class="container">
           <a href="{{site.baseurl}}/">
           <h1><a href="{{site.baseurl}}/">{{site.name}}</a></h1>
+          <h2>(mind against the machine)</h2>
           </a>
         </div>
       </div>
@@ -44,6 +21,17 @@
       </div>
 
       <div class="footer">
+
+      <div class="container">
+          <h1>Subscribe</h1>
+
+<style>#gumroad-follow-form-embed{display: flex;gap: calc(.25rem*2);}#gumroad-follow-form-embed-button{contain: layout;display: inline-flex;cursor: pointer;align-items: center;justify-content: center;gap: calc(.25rem*2);border-radius: .25rem;border-style: solid; border-width: 1px;border-color: rgb(221 221 221/.35);background-color: rgb(221 221 221);}#gumroad-follow-form-embed-input{display: block;width: 100%;flex: 1 1 0%;border-radius: .25rem;border-style: solid; border-width: 1px;border-color: rgb(221 221 221/.35);}</style><form class="flex gap-2" action="https://gumroad.com/follow_from_embed_form" method="post" id="gumroad-follow-form-embed"><input type="hidden" name="seller_id" value="6521481378378"/><input class="font-[inherit] py-3 px-4 text-base leading-snug text-foreground border border-border rounded block w-full bg-background placeholder:text-muted focus:outline-2 focus:outline-indicator focus:outline-offset-0 opacity-100 disabled:cursor-not-allowed disabled:bg-active-bg forced-colors:disabled:border-dashed flex-1" id="gumroad-follow-form-embed-input" type="email" placeholder="Your email address" name="email" value=""/><button class="inline-flex items-center justify-center gap-2 cursor-pointer border border-border rounded font-[inherit] no-underline transition-transform hover:-translate-(--button-hover-offset) hover:shadow-[var(--button-hover-offset)_var(--button-hover-offset)_0_var(--color-black)] active:translate-0 active:shadow-none data-[state=open]:translate-0! data-[state=open]:shadow-none! lift-halo [--lift-halo-offset:var(--button-hover-offset)] px-4 py-3 text-base leading-snug bg-primary text-primary-foreground hover:bg-accent-with-text hover:text-accent-foreground" type="submit" id="gumroad-follow-form-embed-button">Follow</button></form>
+
+
+      </div>
+
+
+
         <div class="container" id="contact">
           <h1>Support this project</h1>
           <p><a target="_blank" href="https://ko-fi.com/abuseofnotation">Ko-fi</a></p>
@@ -54,9 +42,9 @@
       <div class="footer">
         <div class="container">
 
-          <h1>Created by Jencel Panic</h1>
+          <h1>Created by Jencel</h1>
           <p><a target="_blank" href="/">personal blog</a></p>
-          <p><a href="mailto:marinovboris@protonmail.com">email</a></p>
+          <p><a href="mailto:jencel@tutamail.com">email</a></p>
           <p><a target="_blank" rel="me" href="https://mathstodon.xyz/@abuseofnotation">mastodon</a></p>
           <p><a target="_blank" href="https://twitter.com/AlexanderKatt/">twitter</a></p>
           <p><a target="_blank" href="https://github.com/abuseofnotation/time">Github</a></p>
