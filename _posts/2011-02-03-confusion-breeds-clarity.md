@@ -1,11 +1,9 @@
 ---
 title: Confusion breeds clarity
 aka: The facility
-layout: default
+layout: post
 summary: P and NP / Packing my whole life into a backpack / Alex, who looks just like me / Alex's invitation as a carte blanche / Anna jumps out of the window / "What are you in for?" / Making the conformist choice / My parents on dropping college / 
 ---
-
-# Confusion breeds clarity
 
 The Knapsack problem can be described in the following way (and yes, I do realize that this is not the best way to start a book, but bear with me (or don't, it's your choice, obviously), as the problem is very interesting, plus there will be a sex scene at the end and this part is, like, suuuper relevant for understanding its context): you have a backpack ("knapsack" is another word for backpack), with a given volume, say 10 liters (or we can say "10 gallons", if you are American (although, "yuck")), and a bunch of objects that you want to put there, each object with a different volume, say 1 liter, 2 liters, 3 liters and 5 liters and you want to fill it up, leaving no empty space. And you want to devise a general way to determine which objects you want to take, which works in all cases i.e. an algorithm.
 <!--more-->

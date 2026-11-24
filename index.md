@@ -13,7 +13,7 @@ Jencel
 
 {% for post in site.posts reversed %}
 
-[{{post.title}}]({{post.url | prepend:site.baseurl}})
+*{{post.date | date_to_string }}* - [{{post.title}} ]({{post.url | prepend:site.baseurl}}) AKA {{post.aka}}
 ===
 
 {{post.summary}}
